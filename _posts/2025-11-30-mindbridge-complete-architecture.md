@@ -11,6 +11,10 @@ categories: [AI, RAG, MindBridge]
 
 这不仅是技术总结，更是对 **如何把 AI 能力真正落地到应用场景** 的思考。
 
+这篇是整个 MindBridge 的总览版，记录我从规则引擎到 RAG、再到微调和框架整合的完整学习路径。
+
+<!--more-->
+
 ---
 
 ## 第一步：为什么需要 MindBridge？

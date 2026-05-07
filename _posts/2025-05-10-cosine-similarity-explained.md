@@ -11,6 +11,10 @@ categories: [AI, RAG, MindBridge]
 
 答案是：**Embedding（嵌入向量）**。
 
+这篇文章是我对向量检索基础的整理，重点放在“为什么余弦相似度最适合文本语义检索”这件事上。
+
+<!--more-->
+
 ### 什么是 Embedding？
 
 简单说，Embedding 就是把文本转换成计算机能理解的 **稠密向量**。
